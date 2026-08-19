@@ -13,11 +13,6 @@
   I build clean, responsive and user-friendly web experiences.
 </p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atuleojonugwa" alt="atuleojonugwa" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ojay03077035" target="blank"><img src="https://img.shields.io/twitter/follow/ojay03077035?logo=twitter&style=for-the-badge" alt="ojay03077035" /></a> </p>
-
 - 🌱 I’m currently learning **fundamentals of AI Engineering**
 
 - 👨‍💻 All of my projects are available at [https://atules-portfolio.vercel.app/](https://atules-portfolio.vercel.app/)
