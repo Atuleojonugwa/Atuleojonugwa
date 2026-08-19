@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="./assets/banner.png"
+    width="100%"
+    alt="Profile Banner"
+  />
+</p>
+
 <h1 align="center">Hi 👋, I'm Atule Ojonugwa</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
