@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src=".banner.png"
+    src="./banner.png"
     width="100%"
     alt="Profile Banner"
   />
